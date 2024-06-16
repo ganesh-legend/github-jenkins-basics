@@ -1,3 +1,3 @@
 print("What's up buddy")
 print("This is first update")
-prit("This is second update")
+print("This is second update")
